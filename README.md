@@ -10,5 +10,5 @@
 </div>
 <div style="clear: both;"></div>
 <div>
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=zhaifanhua&theme=nord&column=7&no-frame=true" />
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=zhaifanhua&theme=nord&column=7&margin-w=15&margin-h=15" />
 </div>
