@@ -5,9 +5,13 @@
 ---
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,415065,696969&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,696969,415065&hide_border=true" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,415065,696969&hide_border=true" />
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,696969,415065&hide_border=true" />
 </div>
+
+---
+
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-  </div>
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=zhaifanhua&theme=flat&column=7" />
+</div>
+
