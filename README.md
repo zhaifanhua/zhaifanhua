@@ -1,8 +1,8 @@
 ### <h2 align="center"> 😊😊😊 Hi there,I'm [ZhaiFanHua](https://zhaifanhua.github.io)! 😊😊😊 </h2>
 
-<h4 align="center">The white clothes are dust- free, as we saw first.</h4>
-<h4 align="center">Born in Gansu and like ancient style and Hanfu.</h4>
-<h4 align="center">Take good care of each other and be safe.</h4>
+<h4 align="center">The white clothes are dust- free,as if we first met.</h4>
+<h4 align="center">I was born in Gansu, China,and like ancient customs and Han Dynasty Clothing.</h4>
+<h4 align="center">Cherish each other and everything goes smoothly for you and me.</h4>
 
 - 💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/discussions)
 
