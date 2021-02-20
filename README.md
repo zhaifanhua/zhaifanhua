@@ -3,6 +3,7 @@
 <h4 align="center">I was born in Gansu, China,and like ancient customs and Han Dynasty Clothing.</h4>
 <h4 align="center">Cherish each other and everything goes smoothly for you and me.</h4>
 
+![](http://i1.piimg.com/588926/d1cb3dda0bdf8cd1.png)
 - 💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/discussions)
 
 <div style="clear:both;"></div>
