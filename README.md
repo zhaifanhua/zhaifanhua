@@ -1,7 +1,8 @@
 ### <h2 align="center"> 😊😊😊 Hi there,I'm [ZhaiFanHua](https://zhaifanhua.github.io)! 😊😊😊 </h2>
 
-<h4 align="center">I am passionate about open source software and giving back to others.</h4>
-<h4 align="center">My projects are trusted by thousands of developers all over the world.</h4>
+<h4 align="center">The white clothes are dust- free, as we saw first.</h4>
+<h4 align="center">Born in Gansu and like ancient style and Hanfu.</h4>
+<h4 align="center">Take good care of each other and be safe.</h4>
 
 - 💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/discussions)
 
