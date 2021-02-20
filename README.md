@@ -1,15 +1,11 @@
 <h2 align="center">😊😊😊 Hi there,I'm ZhaiFanHua! 😊😊😊</h2>
-
 <h4 align="center">The white clothes are dust- free,as if we first met.</h4>
-
 <h4 align="center">I was born in Gansu, China,and like ancient customs and Han Dynasty Clothing.</h4>
-
 <h4 align="center">Cherish each other and everything goes smoothly for you and me.</h4>
 
 - 💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/discussions)
 
 <div style="clear:both;"></div>
-
 <div>
 	<a href="https://github.com/zhaifanhua">
 	<img align="center" height="182" src="https://github-readme-stats.vercel.app/api?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,696969,415065&hide_border=true" />
