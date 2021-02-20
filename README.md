@@ -1,5 +1,5 @@
 <p align="left">
-	<a href="/README_CN.md">简体中文</a>
+	👉<a href="/README_CN.md">简体中文</a>
 </p>
 <h2 align="center">😊😊😊 Hi there,I'm ZhaiFanhua! 😊😊😊</h2>
 <h4 align="center">The white clothes are dust- free,as if we first met.</h4>
