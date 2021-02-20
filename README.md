@@ -1,6 +1,9 @@
 <h2 align="center">😊😊😊 Hi there,I'm ZhaiFanHua! 😊😊😊</h2>
+
 <h4 align="center">The white clothes are dust- free,as if we first met.</h4>
+
 <h4 align="center">I was born in Gansu, China,and like ancient customs and Han Dynasty Clothing.</h4>
+
 <h4 align="center">Cherish each other and everything goes smoothly for you and me.</h4>
 
 - 💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/discussions)
