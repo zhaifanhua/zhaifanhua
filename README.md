@@ -1,9 +1,9 @@
-<h2 align="center"> 😊😊😊 Hi there,I'm [zhaifanhua](https://zhaifanhua.github.io)! 😊😊😊 </h2>
+### <h2 align="center"> 😊😊😊 Hi there,I'm [zhaifanhua](https://zhaifanhua.github.io)! 😊😊😊 </h2>
 <h4 align="center">I am passionate about open source software and giving back to others.</h4>
 <h4 align="center">My projects are trusted by thousands of developers all over the world.</h4>
 <div>
-	<img align="left" style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,415065,696969&hide_border=true" />
-	<img align="right" style="width:350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,415065,696969&hide_border=true" />
+	<img align="center" style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,415065,696969&hide_border=true" />
+	<img align="center" style="width:350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,415065,696969&hide_border=true" />
 </div>
 <div style="clear: both;"></div>
 <div>
