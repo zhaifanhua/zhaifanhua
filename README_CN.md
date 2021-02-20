@@ -6,7 +6,7 @@
 <h4 align="center">陇右人士，喜古风与汉服。 </h4>
 <h4 align="center">相互珍重，各自安好。</h4>
 
-- 💬 讨论任何问题[传送门](https://github.com/zhaifanhua/zhaifanhua/discussions)
+- 💬 讨论任何问题[传送门](https://github.com/zhaifanhua/zhaifanhua/discussions/5)
 
 <div style="clear:both;"></div>
 <div>
