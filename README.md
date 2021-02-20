@@ -1,7 +1,7 @@
 ### <h2 align="center"> 😊😊😊 Hi there,I'm [zhaifanhua](https://zhaifanhua.github.io)! 😊😊😊 </h2>
 <h4 align="center">I am passionate about open source software and giving back to others.</h4>
 <h4 align="center">My projects are trusted by thousands of developers all over the world.</h4>
-- 💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/issues)
+💬 Ask me about anything [here](https://github.com/zhaifanhua/zhaifanhua/issues)
 <div style="clear:both;"></div>
 <div>
 	<a href="https://github.com/zhaifanhua">
