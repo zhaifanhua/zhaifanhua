@@ -1,3 +1,6 @@
+<p align="left">
+	<a href="/readme_cn.md">简体中文</a>
+</p>
 <h2 align="center">😊😊😊 Hi there,I'm ZhaiFanhua! 😊😊😊</h2>
 <h4 align="center">The white clothes are dust- free,as if we first met.</h4>
 <h4 align="center">I was born in Gansu, China,and like ancient customs and Han Dynasty Clothing.</h4>
