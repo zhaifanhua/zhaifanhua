@@ -14,9 +14,10 @@
 	<img align="center" height="182" src="https://github-readme-stats.vercel.app/api?username=zhaifanhua&show_icons=true&title_color=f3f8f1&text_color=a3e2c5&icon_color=E6E6FA&bg_color=0,696969,415065&hide_border=true" />
 	</a>
 	<a href="https://github.com/zhaifanhua">
-	<img align="center" height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaifanhua&layout=compact&title_color=f3f8f1&text_color=a3e2c5&bg_color=0,415065,696969&hide_border=true" /></a>
+	<img align="center" height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=f3f8f1&text_color=a3e2c5&bg_color=0,415065,696969&hide_border=true" /></a>
 </div>
 <div style="clear:both;"></div>
 <div>
 	<img align="center" src="https://github-profile-trophy.vercel.app/?username=zhaifanhua&theme=nord&column=7&margin-w=15&margin-h=15" />
 </div>
+
